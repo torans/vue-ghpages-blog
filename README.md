@@ -22,7 +22,7 @@
 
 ## Demo
 
-http://ukn.me
+http://www.shetu.cc
 
 ## Develop
 
