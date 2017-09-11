@@ -1,6 +1,6 @@
 <template>
   <footer class="footer">
-    Copyright © {{ thisYear }} | Powered by <a href="https://github.com/viko16/vue-ghpages-blog" target="_blank">vue-ghpages-blog</a>
+    Copyright © {{ thisYear }} | Powered by <a href="https://shetu.cc" target="_blank">shetu.cc</a>
   </footer>
 </template>
 
